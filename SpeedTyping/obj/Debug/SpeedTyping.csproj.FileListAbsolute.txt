@@ -1,0 +1,10 @@
+C:\Users\danie\source\repos\SpeedTyping\SpeedTyping\bin\Debug\SpeedTyping.exe.config
+C:\Users\danie\source\repos\SpeedTyping\SpeedTyping\bin\Debug\SpeedTyping.exe
+C:\Users\danie\source\repos\SpeedTyping\SpeedTyping\bin\Debug\SpeedTyping.pdb
+C:\Users\danie\source\repos\SpeedTyping\SpeedTyping\obj\Debug\SpeedTyping.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\SpeedTyping\SpeedTyping\obj\Debug\SpeedTyping.Properties.Resources.resources
+C:\Users\danie\source\repos\SpeedTyping\SpeedTyping\obj\Debug\SpeedTyping.csproj.GenerateResource.cache
+C:\Users\danie\source\repos\SpeedTyping\SpeedTyping\obj\Debug\SpeedTyping.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\SpeedTyping\SpeedTyping\obj\Debug\SpeedTyping.exe
+C:\Users\danie\source\repos\SpeedTyping\SpeedTyping\obj\Debug\SpeedTyping.pdb
+C:\Users\danie\source\repos\SpeedTyping\SpeedTyping\obj\Debug\SpeedTyping.main.resources
